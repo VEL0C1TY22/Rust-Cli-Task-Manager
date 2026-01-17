@@ -10,8 +10,6 @@
 
 • Cooperative task cancellation with CancellationToken
 
-• Command-driven interactive CLI loop
-
 • Non-blocking async runtime behavior
 
 
