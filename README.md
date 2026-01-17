@@ -1,1 +1,2 @@
-"Cli Task Manager Made in Rust" 
+# Cli Task Manager Made in Rust
+
